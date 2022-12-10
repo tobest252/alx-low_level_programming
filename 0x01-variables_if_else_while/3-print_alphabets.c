@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>I
 /**
  * main - returns alphabetd both lower and upper cases
  *
